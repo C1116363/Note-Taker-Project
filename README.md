@@ -1,6 +1,7 @@
 # Note-Taker-Project
 I created complete java web application
-used technology
+
+ technologies used
 * Hibernate
 * Servlet
 * Jsp
